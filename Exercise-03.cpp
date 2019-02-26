@@ -1,9 +1,9 @@
 /*
-Nama program 	: FizzBuzz
+Nama program 	: Swap
 Nama			: Ahmad Faaiz Al-auza'i
 NPM				: 140810180023
 Tanggal dibuat	: 26/02/2019
-Deskripsi		: Mencetak Fizz bila angka habis dibagi 3, dan Buzz bila angka habis dibagi 5
+Deskripsi		: Merubah nilai x dan y
 ***********************************************/
 
 #include <iostream>
