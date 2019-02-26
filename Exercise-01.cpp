@@ -11,7 +11,7 @@ using namespace std;
 
 void Buzz(int Num)
 {
-    if(Num % 5 == 00){
+    if(Num % 5 == 0){
         cout << "Buzz" << " ";
     }
 }
